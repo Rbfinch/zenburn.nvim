@@ -2,7 +2,7 @@ return {
 	Boolean = { fg="#dca3a3", },
 	Character = { fg="#dca3a3", bold=true, },
 	ColorColumn = { bg="#484848", },
-	Comment = { fg="DarkGrey", },
+	Comment = { fg="#4e4e4e", },
 	Conditional = { fg="#f0dfaf", bold=true, },
 	Constant = { fg="#dca3a3", bold=true, },
 	Cursor = { fg="#000d18", bg="#8faf9f", bold=true, },
